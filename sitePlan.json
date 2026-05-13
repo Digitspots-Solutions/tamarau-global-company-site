@@ -1,0 +1,49 @@
+{
+  "businessName": "Tamarau Global Company",
+  "industry": "Manufacturing",
+  "tone": "professional and confident",
+  "tagline": "Engineering Excellence, Delivering Quality",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Tamarau Global Company - Your Trusted Manufacturing Partner in Nigeria. We deliver precision-engineered solutions and quality manufacturing services across diverse industries. Based in Bayelsa State, serving Nigeria and beyond.",
+      "imagePrompt": "Photorealistic image of a modern Nigerian manufacturing facility exterior with gleaming steel structures, workers in safety gear and hard hats in the foreground, blue sky, professional industrial setting in Yenagoa, Bayelsa State, golden hour lighting, sharp focus, corporate photography style",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Tamarau Global Company is a leading manufacturing enterprise based in Yenagoa, Bayelsa State. We combine cutting-edge technology with skilled craftsmanship to deliver exceptional manufacturing solutions tailored to meet the unique needs of Nigerian businesses and industries. Our commitment to quality, reliability, and innovation has positioned us as a trusted partner for companies seeking world-class manufacturing services. From concept to completion, we maintain the highest standards of precision and excellence in every project we undertake.",
+      "imagePrompt": "Professional photograph of diverse Nigerian manufacturing team in a well-lit factory floor, modern machinery in background, workers wearing branded uniforms and safety equipment, collaborative atmosphere, natural lighting through industrial windows, documentary style photography",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "At Tamarau Global Company, we offer comprehensive manufacturing solutions designed to meet the evolving needs of Nigerian industries:\n\n• **Custom Manufacturing** - Precision fabrication and production tailored to your specifications\n\n• **Industrial Equipment Supply** - Quality machinery and equipment for various sectors\n\n• **Product Development** - From prototype to full-scale production\n\n• **Quality Assurance** - Rigorous testing and certification processes\n\n• **Maintenance & Support** - Ongoing technical support and equipment maintenance\n\nWe work across multiple sectors including oil and gas, construction, agriculture, and general manufacturing, delivering solutions that drive productivity and growth.",
+      "imagePrompt": "High-quality industrial photography showing various manufacturing processes in action: welding sparks, CNC machines operating, quality control inspection, metal fabrication work, modern Nigerian factory environment, dynamic composition, professional lighting, technical precision",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose Us",
+      "copy": "**Local Expertise, Global Standards**\n\nTamarau Global Company brings together the best of both worlds - deep understanding of the Nigerian market combined with international quality standards.\n\n• **Proven Track Record** - Years of successful projects across Bayelsa State and Nigeria\n\n• **Skilled Workforce** - Highly trained technicians and engineers\n\n• **Quality Materials** - We source and use only premium-grade materials\n\n• **Timely Delivery** - We respect deadlines and deliver on schedule\n\n• **Competitive Pricing** - Exceptional value without compromising quality\n\n• **Customer-Centric Approach** - Your satisfaction is our priority\n\nWhen you partner with us, you gain a manufacturing ally committed to your success.",
+      "imagePrompt": "Inspiring photograph of quality control inspector examining manufactured products with precision instruments, clean modern Nigerian factory setting, certificates and quality badges visible on wall, professional business environment, confident posture, bright even lighting",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to discuss your manufacturing needs? Get in touch with Tamarau Global Company today.\n\nOur team is ready to provide expert consultation and tailored solutions for your business. Whether you're planning a new project or need ongoing manufacturing support, we're here to help you succeed.\n\n**Business Hours:**\nMonday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM\n\nReach out via phone, email, or visit our facility in Yenagoa. We look forward to partnering with you.",
+      "imagePrompt": "Professional photograph of modern Nigerian office reception area with Tamarau Global Company branding, welcoming receptionist, comfortable seating, large windows showing Yenagoa cityscape, clean corporate interior design, warm professional atmosphere, natural daylight",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 806 795 5998",
+    "email": "info@tamarauglobal.com",
+    "address": "No C4 Ekeki Estate, Yenagoa, Bayelsa State, Nigeria",
+    "whatsapp": "https://wa.me/2348067955998"
+  }
+}
